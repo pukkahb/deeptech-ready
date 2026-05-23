@@ -22,7 +22,7 @@ The goal is to understand what influences customer spending and test how well ma
 
 ## Dataset
 
-The project uses a supermarket sales dataset (`supermarket_sales.csv`).
+The project uses a supermarket sales dataset (`supermarket_sales.csv`). The dataset is available on Kaggle: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)
 
 Some of the features include:
 
@@ -36,10 +36,6 @@ Some of the features include:
 - Unit price
 - Gross income
 - Total sales value
-
-Target column:
-
-- `Total` (or `Sales` depending on dataset format)
 
 ---
 
@@ -154,7 +150,7 @@ The notebook compares the performance of multiple machine learning models using:
 - R² Score
 - Mean Squared Error (MSE)
 
-The results help determine which model predicts supermarket sales most effectively.
+The results help determine which model best predicts supermarket sales.
 
 ---
 
@@ -167,12 +163,6 @@ Future improvements could include:
 - More advanced visualisations
 - Deployment as a web app
 - Real-time sales prediction
-
----
-
-## Author
-
-Temitayo Ogundimu
 
 ---
 
